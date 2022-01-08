@@ -1,4 +1,4 @@
-# WemosD1MiniSensorArray
+# WemosD1MiniSensorArray [SundayProjects]
 Wemos D1 Mini, Sensors, REST API
 
 # WiFi credentials
