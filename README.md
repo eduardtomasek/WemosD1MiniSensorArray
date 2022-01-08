@@ -100,6 +100,11 @@ const char* password = "<password>";
     }
 ]
 ```
+
+# Playground
+![devkitA](./docs/images/devkitA.jpg "Development 01")
+
+![devkitB](./docs/images/devkitB.jpg "Development 02")
 # Components
 ## Wemos D1 Mini
 https://www.aliexpress.com/item/32831353752.html
