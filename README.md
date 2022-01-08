@@ -128,6 +128,11 @@ https://www.aliexpress.com/item/1005003327901391.html
 ![sht31](./docs/images/sht31.jpg "SHT-31")
 
 ### MQ-135
+* VIN - 5VDC
+* A0 - 0.1 - 3V
+* DO - 5V (can damage Wemos, needs to be converted to 3V)
+* power consumption 150mA - needs separate power supply
+
 https://www.aliexpress.com/item/32547745710.html
 
 ![mq135](./docs/images/mq135.jpg "MQ-135")
