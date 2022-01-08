@@ -2,7 +2,7 @@
 Wemos D1 Mini, Sensors, REST API
 
 # WiFi credentials
-Make ```credentials.h``` in project folder:
+Make ```credentials.h``` in ```include``` folder:
 
 ```cpp
 const char* ssid = "<SSID>";
